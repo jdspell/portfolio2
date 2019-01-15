@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<!-- saved from url=(0070)file:///home/jdpsell/Desktop/github/responsive-web-design-I/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>Great Idea - Responsive I</title>
+
+  <link href="./great-idea-responsive-design_files/css" rel="stylesheet">
+  <link rel="stylesheet" href="./great-idea-responsive-design_files/index.css">
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body class="main-pg">
+    <header>
+        <nav>
+            <a href="file:///home/jdpsell/Desktop/github/UI-III-Flexbox/attempt2/UI-III-Flexbox/great-idea/services.html">Services</a>
+            <a href="file:///home/jdpsell/Desktop/github/responsive-web-design-I/index.html#">Product</a>
+            <a href="file:///home/jdpsell/Desktop/github/responsive-web-design-I/index.html#">Vision</a>
+            <a href="file:///home/jdpsell/Desktop/github/UI-III-Flexbox/attempt2/UI-III-Flexbox/great-idea/features.html">Features</a>
+            <a href="file:///home/jdpsell/Desktop/github/responsive-web-design-I/index.html#">About</a>
+            <a href="file:///home/jdpsell/Desktop/github/responsive-web-design-I/index.html#">Contact</a>
+        </nav>
+
+        <img class="logo" src="./great-idea-responsive-design_files/logo.png" alt="Great Idea! Company logo.">
+    </header>
+
+    <section class="top-design-catchphrase">
+        <div class="catchphrase">
+            <h1>
+                Innovation<br>
+                On<br>
+                Demand
+            </h1>
+
+            <button>Get Started</button>
+        </div>
+        <img class="top-img" src="./great-idea-responsive-design_files/header-img.png" alt="Image of a code snippet.">
+
+    </section>
+
+    <section class="top-content">
+        <div class="features">
+            <h2>Features</h2>
+            <p>
+                Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.
+            </p>
+        </div>
+        <div class="about">
+            <h2>About</h2>
+            <p>
+                Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.
+            </p>
+        </div>
+    </section>
+
+  <img class="middle-img" src="./great-idea-responsive-design_files/mid-page-accent.jpg" alt="Image of code snippets across the screen">
+  
+  <section class="bottom-content">
+    <div class="services">
+        <h2>Services</h2>
+        <p>
+            Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.
+        </p>
+    </div>
+
+    <div class="product">
+        <h2>Product</h2>
+        <p>
+            Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.
+        </p>
+    </div>
+
+    <div class="vision">
+        <h2>Vision</h2>
+        <p>
+            Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.
+        </p>
+    </div>
+
+  </section>
+
+  <section class="contact">
+
+    <h2>Contact</h2>
+
+    <address>
+    123 Way 456 Street<br>
+    Somewhere, USA<br><br>
+    1 (888) 888-8888<br><br>
+    sales@greatidea.io
+    </address>
+
+  </section>
+
+  <div class="copyright">
+    Copyright Great Idea! 2018
+  </div>
+  
+
+</body></html>
